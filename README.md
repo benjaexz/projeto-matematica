@@ -42,5 +42,5 @@ A soma entre 10 e 15 é igual a 25
 
 ## 🧠 Autor
 
-Jacó Lima Pimentel — Estudante de Ciência da Computação  
+Jacó Lima — Estudante de Ciência da Computação  
 GitHub: [@benjaexz](https://github.com/benjaexz)
